@@ -24,6 +24,11 @@ int main(int argc, char *argv[]) {
 
 
 
-	
+	// 1.2 create and switch to branch "hello", uncomment (and complete) the following line and make a commit  
+	 cout << "Hello, my name is ___________." << endl;
+
+
+
+
 
 }
